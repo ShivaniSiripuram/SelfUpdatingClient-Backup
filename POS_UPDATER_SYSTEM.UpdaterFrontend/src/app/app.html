@@ -1,0 +1,76 @@
+<main class="shell">
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">POS updater</p>
+      <h1>Deployment console</h1>
+    </div>
+    <button type="button" class="danger" (click)="rollback()" [disabled]="!canRollback()">Rollback</button>
+  </header>
+
+  <section class="version-grid">
+    <article class="metric">
+      <span>Current version</span>
+      <strong>{{ currentVersion() }}</strong>
+    </article>
+    <article class="metric">
+      <span>Latest version</span>
+      <strong>{{ latestVersion() }}</strong>
+    </article>
+  </section>
+
+  <section class="panel progress-panel">
+    <div class="panel-header">
+      <h2>Progress</h2>
+      <span>{{ progressPercent() }}%</span>
+    </div>
+    <div class="progress">
+      <div class="bar" [class]="progressClass()" [style.width.%]="progressPercent()"></div>
+    </div>
+    <p class="stage-text">{{ currentStageText() }}</p>
+  </section>
+
+  <section class="result">
+    <p *ngIf="latest()">
+      Automatic check: {{ latest()?.isUpdateAvailable ? 'Update available' : 'No update available' }}
+      (latest {{ latest()?.latestVersion }})
+    </p>
+    <div class="rejected-update" *ngIf="rejectedVersion()">
+      
+        <h2>Rejected update</h2>
+        
+      <p>{{ rejectedVersion() }}</p>
+      <span>Reason:</span>
+      <strong>{{ rejectedReason() }}</strong>
+    </div>
+    <p *ngIf="!latest()">{{ autoUpdateStatus() }}</p>
+    <p *ngIf="lastResult()">Result: {{ lastResult()?.message }}</p>
+    <p *ngIf="state()?.lastOperationLogFile">Last log: {{ state()?.lastOperationLogFile }}</p>
+    <p class="error" *ngIf="state()?.lastError">Last error: {{ state()?.lastError }}</p>
+    <!-- <p class="error" *ngIf="error()">{{ error() }}</p> -->
+  </section>
+
+  <section class="logs-layout">
+    <aside class="logs-list">
+      <div class="panel-header">
+        <h2>Operation logs</h2>
+        <button type="button" class="secondary" (click)="refreshLogs()">Reload</button>
+      </div>
+      <button
+        type="button"
+        *ngFor="let log of logs()"
+        [class.selected]="selectedLogFile() === log.fileName"
+        (click)="selectLog(log.fileName)"
+      >
+        <strong>{{ log.fileName }}</strong>
+        <span>{{ log.lastModifiedUtc | date:'medium' }} - {{ log.sizeBytes }} bytes</span>
+      </button>
+    </aside>
+
+    <article class="log-viewer">
+      <div class="panel-header">
+        <h2>{{ selectedLogFile() ?? 'No log selected' }}</h2>
+      </div>
+      <pre>{{ selectedLogContent() || 'No log content loaded.' }}</pre>
+    </article>
+  </section>
+</main>

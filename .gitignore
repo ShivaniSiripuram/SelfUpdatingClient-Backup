@@ -1,0 +1,4 @@
+**/bin/
+**/obj/
+**/server.out.log
+**/server.err.log

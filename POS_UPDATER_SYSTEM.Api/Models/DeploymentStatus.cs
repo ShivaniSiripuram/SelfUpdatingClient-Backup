@@ -1,0 +1,18 @@
+namespace POS_UPDATER_SYSTEM.Api.Models;
+
+public enum DeploymentStatus
+{
+    LIVE,
+    CHECKING,
+    DOWNLOADING,
+    VERIFYING,
+    STAGING,
+    VALIDATING_STATIC,
+    VALIDATING_RUNTIME,
+    BACKING_UP,
+    ACTIVATING,
+    RESTARTING,
+    ROLLBACK,
+    ROLLED_BACK,
+    FAILED
+}

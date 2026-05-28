@@ -1,0 +1,38 @@
+﻿[INFO] [WATCHER] New version detected. Deployment pipeline triggered.
+[INFO] [PIPELINE] Target version: 1.2.0.0
+[INFO] [DOWNLOAD] Package download initiated
+[INFO] [DOWNLOAD] Source: http://localhost/updates/Version1.2.0.0.zip
+[INFO] [DOWNLOAD] Writing package to Storage\Downloads\Version1.2.0.0.zip
+[INFO] Start processing HTTP request GET http://localhost/updates/Version1.2.0.0.zip
+[INFO] Sending HTTP request GET http://localhost/updates/Version1.2.0.0.zip
+[INFO] Received HTTP response headers after 2.2792ms - 200
+[INFO] End processing HTTP request after 18.277ms - 200
+[INFO] [DOWNLOAD] Package stream established
+[INFO] [DOWNLOAD] Package download completed successfully
+[INFO] [DOWNLOAD] Total package size: 0.06 MB
+[INFO] [VERIFY] SHA256 validation started
+[INFO] [VERIFY] SHA256 verification successful
+[INFO] [VERIFY] ZIP integrity validation started
+[INFO] [VERIFY] Angular shell validation started
+[INFO] [VERIFY] main*.js validation successful
+[INFO] [STAGING] Staging process started
+[INFO] [STAGING] Extracting package into isolated staging environment
+[INFO] [STAGING] Package extracted to Storage\Staging\Version1.2.0.0
+[INFO] [STAGING] HTTP health check passed
+[INFO] [STAGING] Staging validation completed successfully
+[INFO] [STAGING] Runtime validation completed successfully
+[INFO] [MAINTENANCE] Maintenance mode enabled
+[INFO] [MAINTENANCE] User traffic temporarily blocked
+[INFO] [MAINTENANCE] Maintenance UI activated
+[INFO] [BACKUP] Backup process started
+[INFO] [BACKUP] Creating snapshot of current live application
+[INFO] [BACKUP] Backup path: Storage\Backups\1.1.0.0_20260523085131
+[INFO] [BACKUP] Backup completed successfully
+[INFO] Removed older rollback backup C:\Users\admin\AutoUpdatingClientFinalDemo\AutoUpdatingClientFinalDemo\POS_UPDATER_SYSTEM\POS_UPDATER_SYSTEM.Api\Storage\Backups\1.0.0.0_20260523084744.
+[INFO] [ACTIVATION] Stopping live application host
+[INFO] [ACTIVATION] Replacing Current application with staged version
+[INFO] [ACTIVATION] Atomic application swap initiated
+[INFO] [ACTIVATION] Restarting application host
+[INFO] [MAINTENANCE] Maintenance mode disabled
+[INFO] [MAINTENANCE] User traffic restored
+[INFO] [ACTIVATION] Version 1.2.0.0 is now LIVE

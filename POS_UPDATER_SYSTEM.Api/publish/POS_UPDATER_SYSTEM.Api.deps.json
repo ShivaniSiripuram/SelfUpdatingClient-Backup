@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "POS_UPDATER_SYSTEM.Api/1.0.0": {
+        "runtime": {
+          "POS_UPDATER_SYSTEM.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POS_UPDATER_SYSTEM.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

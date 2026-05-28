@@ -1,0 +1,15 @@
+{
+  "CurrentVersion": "1.0.0.0",
+  "LastBackupPath": null,
+  "LastKnownGoodVersion": "1.0.0.0",
+  "IsUpdating": false,
+  "IsRollbackAvailable": false,
+  "Status": "FAILED",
+  "LastError": "Update check failed. Response status code does not indicate success: 404 (Not Found).",
+  "LastCheckTime": "2026-05-22T08:03:03.010605+00:00",
+  "LastUpdateTime": null,
+  "LastRollbackTime": null,
+  "LastOperationLogFile": null,
+  "BlockedVersion": null,
+  "BlockedVersionAt": null
+}

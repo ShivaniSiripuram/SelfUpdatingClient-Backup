@@ -1,0 +1,271 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background: #f5f7f8;
+  color: #17211d;
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+}
+
+.shell {
+  width: min(1180px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 28px 0;
+}
+
+.topbar,
+.panel,
+.result,
+.logs-list,
+.log-viewer,
+.metric {
+  border: 1px solid #d7dedb;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px;
+}
+
+.eyebrow {
+  margin: 0 0 4px;
+  color: #557167;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+  letter-spacing: 0;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+button {
+  min-height: 38px;
+  border: 1px solid #9aa9a3;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #17211d;
+  padding: 0 14px;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.danger {
+  border-color: #a63d40;
+  background: #a63d40;
+  color: #ffffff;
+}
+
+.secondary {
+  background: #edf2f0;
+}
+
+.version-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.metric {
+  padding: 18px;
+}
+
+.metric span,
+.logs-list span {
+  color: #64756f;
+  font-size: 12px;
+}
+
+.metric strong {
+  display: block;
+  margin-top: 8px;
+  font-size: 30px;
+  overflow-wrap: anywhere;
+}
+
+.panel,
+.result {
+  padding: 18px;
+  margin-top: 16px;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.progress {
+  height: 18px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #e3e9e7;
+  margin: 18px 0 12px;
+}
+
+.bar {
+  height: 100%;
+  transition: width 800ms ease, background 200ms ease;
+}
+
+.bar.checking {
+  background: #6f7f8f;
+}
+
+.bar.download {
+  background: #2563eb;
+}
+
+.bar.staging {
+  background: #7c3aed;
+}
+
+.bar.backup {
+  background: #d97706;
+}
+
+.bar.activation {
+  background: #0891b2;
+}
+
+.bar.live {
+  background: #168557;
+}
+
+.bar.failed {
+  background: #b4232a;
+}
+
+.stage-text {
+  color: #40534c;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.result {
+  display: grid;
+  gap: 8px;
+  color: #40534c;
+  font-weight: 700;
+}
+
+.error {
+  color: #a63d40;
+}
+
+.warning {
+  color: #9a5b00;
+}
+
+.rejected-update {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid #e0a243;
+  border-radius: 8px;
+  background: #fff8eb;
+  color: #5f3b00;
+}
+
+.rejected-update p {
+  font-size: 24px;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+
+.rejected-update span {
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.rejected-update strong {
+  overflow-wrap: anywhere;
+}
+
+.logs-layout {
+  display: grid;
+  grid-template-columns: 330px minmax(0, 1fr);
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.logs-list,
+.log-viewer {
+  padding: 16px;
+  min-height: 420px;
+}
+
+.logs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.logs-list button {
+  display: grid;
+  gap: 4px;
+  height: auto;
+  min-height: 56px;
+  text-align: left;
+  font-weight: 400;
+  padding: 10px;
+}
+
+.logs-list button strong {
+  overflow-wrap: anywhere;
+}
+
+.logs-list button.selected {
+  border-color: #168557;
+  background: #eef8f4;
+}
+
+pre {
+  min-height: 342px;
+  max-height: 62vh;
+  overflow: auto;
+  margin: 14px 0 0;
+  padding: 14px;
+  border-radius: 6px;
+  background: #101715;
+  color: #d9eee7;
+  font-size: 13px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 900px) {
+  .topbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .version-grid,
+  .logs-layout {
+    grid-template-columns: 1fr;
+  }
+}
