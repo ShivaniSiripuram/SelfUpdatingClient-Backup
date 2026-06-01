@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\deploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\deploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\latestupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\latestupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\deploymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\deploymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\deploymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\deploymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\deploymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\deploymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\backupmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\backupmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\simplestaginghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\simplestaginghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\simplestaginghttpcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\simplestaginghttpcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\iliveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\iliveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\updatewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\updatewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\staticfilehostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\staticfilehostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\ideploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\ideploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\ideploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\ideploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,100 +75,12 @@
       "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\options\\updateroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:options\\updateroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\updateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\staticfilehostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\staticfilehostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\ihostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\ihostruntimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\liveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\liveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\iliveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\iliveappvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\simplestaginghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\simplestaginghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\simplestaginghttpcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\simplestaginghttpcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\updatecheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\updatecheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\deploymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\deploymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\models\\latestupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:models\\latestupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\updatewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\updatewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\deploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\deploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\rollbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\rollbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\irollbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\irollbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\activationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\activationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\stagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\stagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\packageverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\packageverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\deploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\deploymentorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\storagepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\storagepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\services\\ideploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:services\\ideploymentstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|c:\\users\\admin\\desktop\\projectbackups\\autoupdatingclientfinaldemo\\autoupdatingclientfinaldemo\\pos_updater_system\\pos_updater_system.api\\storage\\current\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5DE0D9F-7DED-0AAC-D2D6-BB2A4D4272FF}|POS_UPDATER_SYSTEM.Api.csproj|solutionrelative:storage\\current\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,105 +106,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-28T11:26:08.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-28T11:25:53.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IIS_DEPLOYMENT.md",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\IIS_DEPLOYMENT.md",
-              "RelativeDocumentMoniker": "IIS_DEPLOYMENT.md",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\IIS_DEPLOYMENT.md",
-              "RelativeToolTip": "IIS_DEPLOYMENT.md",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAlwGAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-28T11:24:49.679Z",
+              "Title": "DeploymentOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentOrchestrator.cs",
+              "RelativeDocumentMoniker": "Services\\DeploymentOrchestrator.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentOrchestrator.cs",
+              "RelativeToolTip": "Services\\DeploymentOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:33:15.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LatestUpdateInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\LatestUpdateInfo.cs",
+              "RelativeDocumentMoniker": "Models\\LatestUpdateInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\LatestUpdateInfo.cs",
+              "RelativeToolTip": "Models\\LatestUpdateInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:15:48.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeploymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentStatus.cs",
+              "RelativeDocumentMoniker": "Models\\DeploymentStatus.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentStatus.cs",
+              "RelativeToolTip": "Models\\DeploymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:28:08.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeploymentState.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentState.cs",
+              "RelativeDocumentMoniker": "Models\\DeploymentState.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentState.cs",
+              "RelativeToolTip": "Models\\DeploymentState.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:28:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackupMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\BackupMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\BackupMetadata.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\BackupMetadata.cs",
+              "RelativeToolTip": "Models\\BackupMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:27:45.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAawMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T11:24:13.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateClient.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateClient.cs",
-              "RelativeDocumentMoniker": "Services\\UpdateClient.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateClient.cs",
-              "RelativeToolTip": "Services\\UpdateClient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:55:02.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "DeploymentController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Controllers\\DeploymentController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeploymentController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Controllers\\DeploymentController.cs",
               "RelativeToolTip": "Controllers\\DeploymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T10:37:32.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T10:37:32.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StaticFileHostRuntimeManager.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StaticFileHostRuntimeManager.cs",
-              "RelativeDocumentMoniker": "Services\\StaticFileHostRuntimeManager.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StaticFileHostRuntimeManager.cs",
-              "RelativeToolTip": "Services\\StaticFileHostRuntimeManager.cs",
+              "DocumentIndex": 8,
+              "Title": "SimpleStagingHost.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHost.cs",
+              "RelativeDocumentMoniker": "Services\\SimpleStagingHost.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHost.cs",
+              "RelativeToolTip": "Services\\SimpleStagingHost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:12:31.515Z"
+              "WhenOpened": "2026-05-25T06:19:00.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "LiveAppValidator.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\LiveAppValidator.cs",
-              "RelativeDocumentMoniker": "Services\\LiveAppValidator.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\LiveAppValidator.cs",
-              "RelativeToolTip": "Services\\LiveAppValidator.cs",
+              "Title": "SimpleStagingHttpCheck.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHttpCheck.cs",
+              "RelativeDocumentMoniker": "Services\\SimpleStagingHttpCheck.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHttpCheck.cs",
+              "RelativeToolTip": "Services\\SimpleStagingHttpCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:19:17.084Z"
+              "WhenOpened": "2026-05-25T06:18:57.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeploymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentResult.cs",
+              "RelativeDocumentMoniker": "Models\\DeploymentResult.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentResult.cs",
+              "RelativeToolTip": "Models\\DeploymentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:16:01.726Z"
             },
             {
               "$type": "Document",
@@ -248,20 +240,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdaterOptions.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Options\\UpdaterOptions.cs",
-              "RelativeDocumentMoniker": "Options\\UpdaterOptions.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Options\\UpdaterOptions.cs",
-              "RelativeToolTip": "Options\\UpdaterOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UpdateWatcherService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateWatcherService.cs",
+              "RelativeDocumentMoniker": "Services\\UpdateWatcherService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateWatcherService.cs",
+              "RelativeToolTip": "Services\\UpdateWatcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:14:23.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T06:13:44.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "StaticFileHostRuntimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StaticFileHostRuntimeManager.cs",
+              "RelativeDocumentMoniker": "Services\\StaticFileHostRuntimeManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StaticFileHostRuntimeManager.cs",
+              "RelativeToolTip": "Services\\StaticFileHostRuntimeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:12:31.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDeploymentOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentOrchestrator.cs",
+              "RelativeDocumentMoniker": "Services\\IDeploymentOrchestrator.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentOrchestrator.cs",
+              "RelativeToolTip": "Services\\IDeploymentOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T05:33:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeploymentStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentStateStore.cs",
+              "RelativeDocumentMoniker": "Services\\IDeploymentStateStore.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentStateStore.cs",
+              "RelativeToolTip": "Services\\IDeploymentStateStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:15:26.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T11:25:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IIS_DEPLOYMENT.md",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\IIS_DEPLOYMENT.md",
+              "RelativeDocumentMoniker": "IIS_DEPLOYMENT.md",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\IIS_DEPLOYMENT.md",
+              "RelativeToolTip": "IIS_DEPLOYMENT.md",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAlwGAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-28T11:24:49.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T11:26:08.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IHostRuntimeManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IHostRuntimeManager.cs",
               "RelativeDocumentMoniker": "Services\\IHostRuntimeManager.cs",
@@ -270,102 +333,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T06:22:56.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SimpleStagingHost.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHost.cs",
-              "RelativeDocumentMoniker": "Services\\SimpleStagingHost.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHost.cs",
-              "RelativeToolTip": "Services\\SimpleStagingHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:19:00.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SimpleStagingHttpCheck.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHttpCheck.cs",
-              "RelativeDocumentMoniker": "Services\\SimpleStagingHttpCheck.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\SimpleStagingHttpCheck.cs",
-              "RelativeToolTip": "Services\\SimpleStagingHttpCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:18:57.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateCheckResult.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\UpdateCheckResult.cs",
-              "RelativeDocumentMoniker": "Models\\UpdateCheckResult.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\UpdateCheckResult.cs",
-              "RelativeToolTip": "Models\\UpdateCheckResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T10:45:30.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeploymentResult.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentResult.cs",
-              "RelativeDocumentMoniker": "Models\\DeploymentResult.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\DeploymentResult.cs",
-              "RelativeToolTip": "Models\\DeploymentResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:16:01.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LatestUpdateInfo.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\LatestUpdateInfo.cs",
-              "RelativeDocumentMoniker": "Models\\LatestUpdateInfo.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Models\\LatestUpdateInfo.cs",
-              "RelativeToolTip": "Models\\LatestUpdateInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:15:48.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateWatcherService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateWatcherService.cs",
-              "RelativeDocumentMoniker": "Services\\UpdateWatcherService.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\UpdateWatcherService.cs",
-              "RelativeToolTip": "Services\\UpdateWatcherService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:13:44.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RollbackService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\RollbackService.cs",
-              "RelativeDocumentMoniker": "Services\\RollbackService.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\RollbackService.cs",
-              "RelativeToolTip": "Services\\RollbackService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwBUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:08:32.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DeploymentStateStore.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentStateStore.cs",
-              "RelativeDocumentMoniker": "Services\\DeploymentStateStore.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentStateStore.cs",
-              "RelativeToolTip": "Services\\DeploymentStateStore.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAADwvxoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:36:33.727Z"
             },
             {
               "$type": "Document",
@@ -378,90 +345,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T06:08:16.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ActivationService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\ActivationService.cs",
-              "RelativeDocumentMoniker": "Services\\ActivationService.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\ActivationService.cs",
-              "RelativeToolTip": "Services\\ActivationService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T06:04:02.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StagingService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StagingService.cs",
-              "RelativeDocumentMoniker": "Services\\StagingService.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StagingService.cs",
-              "RelativeToolTip": "Services\\StagingService.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:59:35.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PackageVerifier.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\PackageVerifier.cs",
-              "RelativeDocumentMoniker": "Services\\PackageVerifier.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\PackageVerifier.cs",
-              "RelativeToolTip": "Services\\PackageVerifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:57:17.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DeploymentOrchestrator.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentOrchestrator.cs",
-              "RelativeDocumentMoniker": "Services\\DeploymentOrchestrator.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\DeploymentOrchestrator.cs",
-              "RelativeToolTip": "Services\\DeploymentOrchestrator.cs",
-              "ViewState": "AgIAAFMBAAAAAAAAAAAowFoBAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T10:33:15.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "StoragePaths.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StoragePaths.cs",
-              "RelativeDocumentMoniker": "Services\\StoragePaths.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\StoragePaths.cs",
-              "RelativeToolTip": "Services\\StoragePaths.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T05:11:55.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IDeploymentStateStore.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentStateStore.cs",
-              "RelativeDocumentMoniker": "Services\\IDeploymentStateStore.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Services\\IDeploymentStateStore.cs",
-              "RelativeToolTip": "Services\\IDeploymentStateStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T04:15:26.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Storage\\Current\\index.html",
-              "RelativeDocumentMoniker": "Storage\\Current\\index.html",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\ProjectBackups\\AutoUpdatingClientFinalDemo\\AutoUpdatingClientFinalDemo\\POS_UPDATER_SYSTEM\\POS_UPDATER_SYSTEM.Api\\Storage\\Current\\index.html",
-              "RelativeToolTip": "Storage\\Current\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-23T10:14:30.262Z"
             }
           ]
         }

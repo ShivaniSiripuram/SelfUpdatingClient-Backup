@@ -5,9 +5,11 @@ namespace POS_UPDATER_SYSTEM.Api.Services;
 
 public sealed class OperationFileLoggerProvider : ILoggerProvider, ISupportExternalScope
 {
+    // Stores one lock per log file.
+    // Prevents multiple threads from writing to same file simultaneously.
     private readonly ConcurrentDictionary<string, SemaphoreSlim> _fileLocks = new(StringComparer.OrdinalIgnoreCase);
     private IExternalScopeProvider _scopeProvider = NullExternalScopeProvider.Instance;
-
+    //Creates logger instance
     public ILogger CreateLogger(string categoryName)
     {
         return new OperationFileLogger(categoryName, () => _scopeProvider, _fileLocks);
